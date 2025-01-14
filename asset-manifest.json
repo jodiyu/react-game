@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/jodiyu.github.io/react-game/static/css/main.a463bb92.css",
+    "main.js": "/jodiyu.github.io/react-game/static/js/main.26e2c8c4.js",
+    "static/js/488.2cb716d4.chunk.js": "/jodiyu.github.io/react-game/static/js/488.2cb716d4.chunk.js",
+    "static/media/Circle.png": "/jodiyu.github.io/react-game/static/media/Circle.59963fa2e581697bed68.png",
+    "static/media/Cross.png": "/jodiyu.github.io/react-game/static/media/Cross.51f9d03825b2dd8dd268.png",
+    "index.html": "/jodiyu.github.io/react-game/index.html",
+    "main.a463bb92.css.map": "/jodiyu.github.io/react-game/static/css/main.a463bb92.css.map",
+    "main.26e2c8c4.js.map": "/jodiyu.github.io/react-game/static/js/main.26e2c8c4.js.map",
+    "488.2cb716d4.chunk.js.map": "/jodiyu.github.io/react-game/static/js/488.2cb716d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a463bb92.css",
+    "static/js/main.26e2c8c4.js"
+  ]
+}
